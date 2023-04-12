@@ -5,3 +5,14 @@
 .bg-lightgray{
     background-color: #dbdbdb;
 }
+
+@media (min-width: 768px){
+    .hover{
+        border: 1px solid lightgray;
+    }
+}
+
+
+.hover:hover{
+    background-color: #dbdbdb;
+}
