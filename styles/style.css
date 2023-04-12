@@ -10,6 +10,9 @@
     .hover{
         border: 1px solid lightgray;
     }
+    .bg-lightgray-md{
+        background-color: #dbdbdb;
+    }
 }
 
 
